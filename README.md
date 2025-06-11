@@ -1,4 +1,4 @@
-👋 Hi, I'm [Dhananjay Maurya], founder of [Magnetbyte](https://www.magnetbyte.com) — a platform where we blend technology with creativity.
+👋 Hi, I'm Dhananjay Maurya, founder of [Magnetbyte](https://www.magnetbyte.com) — a platform where we blend technology with creativity.
 
 🧠 I work across:
 - 🔧 Web development & WordPress customization
