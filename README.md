@@ -1,16 +1,16 @@
-## Hi there 👋
+👋 Hi, I'm [Dhananjay Maurya], founder of [Magnetbyte](https://www.magnetbyte.com) — a platform where we blend technology with creativity.
 
-<!--
-**dhananjaym182/dhananjaym182** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🧠 I work across:
+- 🔧 Web development & WordPress customization
+- 📈 Technical SEO & site optimization
+- 🛠️ Server configuration, performance tuning & troubleshooting
+- 📝 Tech reviews, tutorials, and hands-on insights
 
-Here are some ideas to get you started:
+🚀 Currently exploring:
+- Modern JavaScript frameworks
+- Automation & DevOps tools
+- Building reusable, scalable WordPress components
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔗 More about my work: [magnetbyte.com](https://www.magnetbyte.com)
+
+💬 Let's connect or collaborate!
